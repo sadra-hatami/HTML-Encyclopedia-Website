@@ -2,7 +2,9 @@
 
 # 📚 HTML Encyclopedia
 
-### A comprehensive HTML reference covering the complete evolution of HTML — from classic elements to the latest HTML5 standard.
+### The Ultimate HTML Reference Website
+
+A comprehensive HTML encyclopedia documenting the complete evolution of HTML—from classic elements to the latest HTML5 standard, including deprecated and obsolete tags.
 
 <br>
 
@@ -12,60 +14,76 @@
 
 <br>
 
-<p>
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Responsive](https://img.shields.io/badge/Responsive-Yes-success?style=for-the-badge)
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-blue?style=for-the-badge\&logo=github)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-Live-blue?style=for-the-badge&logo=github)
 
-</p>
+<br><br>
 
-[🌐 Live Demo](https://sadra-hatami.github.io/Prompt_Builder_Website/) •
+[🌐 Live Demo](https://sadra-hatami.github.io/HTML-Encyclopedia-Website/) •
 [🐞 Report Bug](../../issues) •
 [💡 Request Feature](../../issues)
 
----
-
 </div>
 
-## 📖 About
+---
 
-**HTML Encyclopedia** is a comprehensive educational website designed to serve as a complete reference for HTML.
+# 📖 About
 
-The project documents more than **150 HTML tags**, covering the entire evolution of HTML—from classic and widely used elements to rare, deprecated, and obsolete tags.
+HTML Encyclopedia is a comprehensive educational website created as a complete reference for HTML.
 
-Each documented tag includes:
+Unlike traditional HTML tutorials, this project documents the entire evolution of HTML—from the earliest elements to the latest HTML5 standard, including deprecated and obsolete tags.
 
-* 📌 Detailed explanation
-* 🏷️ Supported attributes
-* 💡 Practical code examples
-* 📖 Usage notes
-* ✅ Best practices
+Each documented HTML element includes:
 
-Whether you're learning HTML for the first time or looking for a reliable reference, this project is designed to be your all-in-one resource.
+- 📌 Detailed explanation
+- 🏷️ Complete attribute reference
+- 💡 Practical examples
+- 📖 Usage notes
+- ✅ Best practices
+
+Whether you're learning HTML for the first time or looking for a professional reference, this project is designed to be your all-in-one resource.
 
 ---
 
-## ✨ Features
+# ✨ Features
 
-* 📚 24 well-organized chapters
-* 🏷️ 150+ documented HTML tags
-* 🧩 Complete attribute reference
-* 💡 Extensive practical examples
-* ⚠️ Deprecated & obsolete HTML elements
-* 🎨 Modern, responsive, and user-friendly interface
-* ⚡ Fast and lightweight
-* 📖 Designed for both learning and quick reference
+- 📚 24 comprehensive chapters
+- 🏷️ 150+ documented HTML elements
+- 🧩 Complete attribute reference
+- 💡 Extensive practical examples
+- ⚠️ Deprecated & obsolete HTML elements
+- 🔎 Easy navigation
+- 📱 Responsive design
+- 🎨 Modern user interface
+- ⚡ Fast and lightweight
+- 📖 Suitable for beginners and experienced developers
 
 ---
 
-## 📸 Preview
+# 🎯 Why HTML Encyclopedia?
+
+Unlike most HTML tutorials that focus only on commonly used elements, HTML Encyclopedia documents the complete history of HTML in one place.
+
+This project serves both as a learning platform and a professional reference for web developers.
+
+---
+
+# 🛠️ Built With
+
+- HTML5
+- CSS3
+- JavaScript (Vanilla JS)
+
+---
+
+# 📸 Preview
 
 > Add screenshots of your website here.
 
-```text
+```
 assets/
 ├── home.png
 ├── navigation.png
@@ -74,67 +92,74 @@ assets/
 
 ---
 
-## 🛠️ Built With
+# 🚀 Live Demo
 
-* HTML5
-* CSS3
-* JavaScript
+https://sadra-hatami.github.io/HTML-Encyclopedia-Website/
 
 ---
 
-## 🚀 Live Demo
-
-**Website:**
-https://sadra-hatami.github.io/Prompt_Builder_Website/
-
----
-
-## 📂 Project Structure
+# 📂 Project Structure
 
 ```text
-HTML-Encyclopedia/
+HTML-Encyclopedia-Website/
 │
 ├── index.html
-├── style.css
-├── script.js
-├── assets/
-│   ├── images/
-│   ├── icons/
-│   └── screenshots/
-│
-└── README.md
+├── README.md
+└── assets/
 ```
 
 ---
 
-## 🎯 Target Audience
+# 🎓 Target Audience
 
-* Students
-* Beginner Web Developers
-* Front-end Developers
-* Self-learners
-* Anyone looking for a complete HTML reference
+- Students
+- Beginner Web Developers
+- Front-end Developers
+- Self-learners
+- Anyone looking for a complete HTML reference
 
 ---
 
-## 📬 Contact
+# 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+# © Copyright
+
+© 2026 Sadra Hatami. All rights reserved.
+
+The source code, website design, and educational content of this project are protected by copyright.
+
+---
+
+# 🤝 Contributing
+
+Contributions, suggestions, bug reports, and feature requests are welcome.
+
+Feel free to open an Issue or submit a Pull Request.
+
+---
+
+# 📬 Contact
 
 **Sadra Hatami**
 
-📧 Email: **[sadra.hatami.1732@gmail.com](mailto:sadra.hatami.1732@gmail.com)**
+📧 Email: sadra.hatami.1732@gmail.com
 
 ---
 
-## ⭐ Support
+# ⭐ Support
 
 If you found this project useful, please consider giving it a ⭐ on GitHub.
 
-Your support helps the project reach more developers and encourages future improvements.
+Your support motivates future improvements and helps more developers discover the project.
 
 ---
 
 <div align="center">
 
-### Made with ❤️ for the developer community in Iran and the world by **Sadra Hatami**
+### Developed with ❤️ by **Sadra Hatami**
 
 </div>
