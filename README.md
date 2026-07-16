@@ -79,19 +79,6 @@ This project serves both as a learning platform and a professional reference for
 
 ---
 
-# 📸 Preview
-
-> Add screenshots of your website here.
-
-```
-assets/
-├── home.png
-├── navigation.png
-└── tag-reference.png
-```
-
----
-
 # 🚀 Live Demo
 
 https://sadra-hatami.github.io/HTML-Encyclopedia-Website/
@@ -104,8 +91,7 @@ https://sadra-hatami.github.io/HTML-Encyclopedia-Website/
 HTML-Encyclopedia-Website/
 │
 ├── index.html
-├── README.md
-└── assets/
+└── README.md
 ```
 
 ---
