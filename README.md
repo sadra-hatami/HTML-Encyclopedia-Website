@@ -28,8 +28,6 @@ A modern HTML encyclopedia documenting the complete evolution of HTML—from cla
 
 </p>
 
-**Designed & Developed by Sadra Hatami**
-
 <br>
 
 [🌐 Live Demo](https://sadra-hatami.github.io/HTML-Encyclopedia-Website/)    
