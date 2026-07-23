@@ -32,6 +32,7 @@ A modern HTML encyclopedia documenting the complete evolution of HTML—from cla
 
 [🌐 Live Demo](https://sadra-hatami.github.io/HTML-Encyclopedia-Website/)    
 [📧 Support](mailto:mathematics.toolbox.sadra@gmail.com)
+
 </div>
 
 ---
